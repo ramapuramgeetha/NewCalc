@@ -1,0 +1,2 @@
+# NewCalc
+New Calculator project
